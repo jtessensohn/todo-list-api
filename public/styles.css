@@ -1,0 +1,9 @@
+body {
+  background-color: navy;
+  color: chartreuse;
+}
+
+.complete {
+  text-decoration: line-through;
+  color: red;
+}
